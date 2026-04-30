@@ -1,4 +1,5 @@
 # E-Commerce Performance Analysis | Excel Dashboard
+[View the live dashboard here](Dashboard.xlsx)
 
 **Dashboard Preview**
 
