@@ -39,7 +39,7 @@ Here's what it genuinely involved:
 
 
 ## The Data Model
-### Preparation for Data Model
+**Preparation for Data Model**
 - Used VLOOKUP() to bring unit_price and cost_pice from the Products table into Orders, needed as base columns for DAX row context calculations.
 - Derived order_period using DATE() function (first of each month) with customer number formatting, essential for time series joins in Power Pivot.
 - Derived target_period in the Targets sheet using DATEVALUE() with matching custom formatting, so both tables join cleanly with Calendar table on the same period grain.
@@ -77,7 +77,7 @@ The delta measures power the ▲/▼ indicators on every KPI card, none of those
 
 Built on a single sheet, driven entirely by slicers and pivot charts connected to Power Pivot data model.
 
-Slicers: 
+**Slicers:** 
 - Year (2023-2025)
 - Month
 - Region (East/North/South/West)
@@ -86,7 +86,7 @@ Slicers:
 
 KPI Cards: Five headline metrics each paired with LY value and a delta indicator - Revenue, Target Achievement %, Profit Margin %, Average Order Value, Total Orders.
 
-Charts:
+**Charts:**
 - Net Sales vs Target (Line) - monthly actuals vs target
 - Target Achievement % by Month (Bar, RAG coloured) - below 85% red, 85-95% amber, 95%+ green.
 - Regional Sales & Profitability (Combo) - net sales bars with Weighted Discount % and Profit Margin % as overlaid lines
@@ -126,5 +126,5 @@ Charts:
  
 *Built entirely in Microsoft Excel with Power Pivot & DAX | Data Span 2023 - 2025 | Indian E-Commerce context*
 
-  **Let's connect and discuss data, dashboards and insights: [Linkedin](https://www.linkedin.com/in/purti1003/)**
+  **Let's connect and discuss data, dashboard and insights: [Linkedin](https://www.linkedin.com/in/purti1003/)**
  
