@@ -1,5 +1,5 @@
 # E-Commerce Performance Analysis | Excel Dashboard
-[Download the live dashboard here](E-Commerce_Performance_Analysis_Project.xlsx)
+[Download the live dashboard here](E-Commerce_Performance_Analysis_(Excel_Dashboard).xlsx)
 
 **Dashboard Preview**
 
@@ -118,7 +118,7 @@ KPI Cards: Five headline metrics each paired with LY value and a delta indicator
 
  
  ## How to Use
- 1. Open [Dashboard File](E-Commerce_Performance_Analysis_Project.xlsx)
+ 1. Open [Dashboard File](E-Commerce_Performance_Analysis_(Excel_Dashboard).xlsx)
  2. Enable editing and data connections if prompted.
  3. Navigate to the Dashboard tab.
  4. Use the slicers (Year/Month/Region/Category) to filter all visuals simultaneously.
